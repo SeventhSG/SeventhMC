@@ -1,0 +1,49 @@
+# --- Minecraft Server ---
+earth/
+world_nether/
+earth_the_end/
+*/earth/
+*/world_nether/
+*/earth_the_end/
+
+logs/
+crash-reports/
+cache/
+tmp/
+sessions/
+usercache.json
+
+# --- Player Data ---
+playerdata/
+advancements/
+stats/
+
+# --- Plugins ---
+plugins/*.jar
+plugins/*/cache/
+plugins/*/logs/
+
+# --- Binaries ---
+*.jar
+*.exe
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.idea/
+.vscode/
+
+# --- Secrets ---
+*.key
+*.env
+*.token
+*.secret
+
+# --- Server ---
+eula.txt
+banned-players.json
+ops.json
+whitelist.json
+server.properties

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1768657849758
+  login: 1768657461022
+money: '0'
+last-account-name: SeventhSG
+lastlocation:
+  world: b5b6c934-3855-4e57-a10b-99dad9708507
+  world-name: earth
+  x: 9557.5
+  y: 63.0
+  z: 1307.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: b5b6c934-3855-4e57-a10b-99dad9708507
+  world-name: earth
+  x: 9559.782652369966
+  y: 83.02369748564739
+  z: 1210.5827828632039
+  yaw: -174.4494171142578
+  pitch: 9.89999008178711

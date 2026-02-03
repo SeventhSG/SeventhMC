@@ -1,0 +1,16 @@
+{"sets": {"worldborder.markerset": {"hide": false,"circles": {}
+,"areas": {"worldborder_earth": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-11990.00,11990.00]
+,"weight": 3,"z": [-6880.00,6830.00]
+,"ybottom": 64.00,"label": "The border of the world.","opacity": 1.00,"fillopacity": 0.00}
+}
+,"label": "WorldBorder","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Markers","markers": {"_spawn_earth": {"markup": false,"x": 9553.00,"icon": "world","y": 63.00,"dim": "16x16","z": 1298.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1768734686299}
